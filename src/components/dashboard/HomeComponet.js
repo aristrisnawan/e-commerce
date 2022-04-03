@@ -46,7 +46,7 @@ export default function HomeComponet() {
         </div>
       </div>
 
-      <div>
+      <div className="laptop:mt-7">
         <img src={cart1} alt="cart" />
       </div>
     </div>

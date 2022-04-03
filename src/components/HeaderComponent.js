@@ -2,8 +2,8 @@ import React from "react";
 
 export default function HeaderComponent() {
   return (
-    <div>
-      <div className="w-full py-5 px-14 bg-[#E5E5E5]">
+    <div className="fixed w-full">
+      <div className="w-full py-5 px-14">
         <div className="flex flex-row justify-between">
           <div>
             <div className="font-bold italic text-xl border-b-4 border-[#8EA3E5]">

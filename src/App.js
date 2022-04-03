@@ -8,7 +8,7 @@ import FooterComponent from "./components/FooterComponent";
 function App() {
   return (
     <div>
-      {/* <HeaderComponent /> */}
+      <HeaderComponent />
       <HomeComponet />
       <PromoComponent />
       <ContactsComponent />
